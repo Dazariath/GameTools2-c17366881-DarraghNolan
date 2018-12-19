@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60d53da8530d3084a977cf2b4d72707a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_NavMeshAgent: {instanceID: 0}
+  - m_Manager: {instanceID: 0}
+  - m_Player: {fileID: 100144, guid: 1ea85e08c678d6f44a4b5d8336d6c78f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
