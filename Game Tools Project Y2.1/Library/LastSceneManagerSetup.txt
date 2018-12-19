@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/darra/Documents/college/Second Year/Games Tools 2/Game Tools Project
+    Y2.1/GameToolsGame_c17366881/Game Tools Y2.1.unity
+  isLoaded: 1
+  isActive: 1
